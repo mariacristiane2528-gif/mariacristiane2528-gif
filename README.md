@@ -36,7 +36,7 @@
 
 | Projeto | Descrição | Tecnologias |
 | ------- | --------- | ----------- |
-| [Exercícios de Python](https://github.com/mariacristiane2528-gif/meus-projetos-python) | Exercícios organizados por assunto: fundamentos, repetições, listas e dicionários, funções e projetos | Python 
+| [Exercícios de Python](https://github.com/mariacristiane2528-gif/meus-estudos-python) | Exercícios organizados por assunto: fundamentos, repetições, listas e dicionários, funções e projetos | Python 
 
 👉 Veja todos os meus repositórios na [minha página do GitHub](https://github.com/mariacristiane2528-gif?tab=repositories).
 
